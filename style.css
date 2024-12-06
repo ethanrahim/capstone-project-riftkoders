@@ -1,0 +1,39 @@
+* {
+    background-color:black;
+    color: #fff;
+}
+
+.myname {
+    font-weight: 400;
+    font: Bebas Neue;
+    font-size: 32px;
+    justify-content: space-between;
+}
+
+ul {
+    display: inline;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap: 32px;
+    color: #fff;
+    text-decoration: none;
+    list-style-type: none;
+    /* text-emphasis-color: white; */
+}
+
+.header {
+    justify-content: space-between;
+}
+
+.h1 {
+    height: 360px;
+    width: 544px;
+    gap: 40px;
+    padding: 22px;
+}
+
+.h6 {
+    justify-content: ;
+}
+
