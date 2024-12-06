@@ -19,6 +19,7 @@ ul {
     color: #fff;
     text-decoration: none;
     list-style-type: none;
+    margin: auto;
     /* text-emphasis-color: white; */
 }
 
@@ -33,7 +34,22 @@ ul {
     padding: 22px;
 }
 
-.h6 {
-    justify-content: ;
+.h5 {
+    justify-content:first baseline ;
+    height: auto;
 }
+
+.myimage {
+    padding:;
+    height: 732px;
+    width: 600px;
+    top: 126px; 
+    left: 732px;
+} 
+
+.btn {
+    
+}
+   
+
 
