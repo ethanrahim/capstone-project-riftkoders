@@ -1,58 +1,119 @@
 * {
     background-color:black;
     color: #fff;
+    
 }
-
+/* 
 .myname {
     font-weight: 400;
     font: Bebas Neue;
     font-size: 32px;
     justify-content: space-between;
+} */
+.container {
+    padding: 0 30px;
 }
 
-ul {
-    display: inline;
+.container nav {
     display: flex;
     flex-direction: row;
-    /* justify-content: space-between; */
-    gap: 32px;
-    color: #fff;
-    text-decoration: none;
-    list-style-type: none;
-    margin: auto;
-    /* text-emphasis-color: white; */
+    justify-content: space-between;
+    
+
 }
 
-.header {
-    justify-content: space-between;
+.container nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 32px;
 }
+ 
+.container nav li {
+    list-style: none;
+    text-decoration: none;
+}
+
+/* .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px,60px,24px,60px;
+} */
 
 .h1 {
-    height: 360px;
+    /* font-size: 101px; */
+    font-weight: 400px;
+    font: Bebas Neue;
+    /* height: 182px; */
+    /* line-height: 90.9px; */
     width: 544px;
     gap: 40px;
     padding: 22px;
     justify-content: center;
+    /* justify-content: space-around; */
 }
+
+
 
 .h5 {
     justify-content:first baseline ;
     height: auto;
 }
 
-.myimage {
-    padding:;
-    height: 732px;
-    width: 600px;
-    top: 126px; 
-    left: 732px;
-} 
+
 
 .btn {
-    color: #D3E97A;
-    padding: top 20px; bottom: 20px;right: 6px;left: 24px;
+    background-color: #D3E97A;
+    color: #0b0e01;
     gap: 12px;
+    padding: 20px,6px,20px,24px;
+    border-radius: 100px; 
+     border-style: none ;
+    font-size: large
+    
+    
+    /* border-radius: 12px;
+  padding: 5px */
+
+    
 }
-   
+
+ .my.myname { object-fit: contain; 
+    border-radius: 10px; 
+    float: right;                                                       
+    position: relative;
+    right: -600px;
+    align-items: center;
+ }
+    /* height: auto;
+    width: 600px;
+    float: right;
+    object-fit: contain;
+    position: relative;
+    right: 0px;
+    border-radius: 10px;
+}  */
+
+.home-image {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    
+}
+
+.head {
+    justify-content: center;
+}
+
+.feature {
+    display: flex;
+    flex-direction: row;
+    
+    /* justify-content: center; */
+}
+
+
+
 
 
