@@ -3,6 +3,7 @@
     color: #fff;
     max-width: 100%;
     height: auto;
+    
 }
 /* 
 .myname {
@@ -129,6 +130,8 @@
 }
 
 .im-png {
+    padding-top: 78px;
+    padding-bottom: 78px;
     display: flex;
     flex-direction: row;
     width: 600px;
@@ -138,7 +141,27 @@
 }
 
 .about-me {
+    padding-top: 0%;
+    padding-left: 1091px;
+    padding-bottom: 560px;
+    left: 678px;
     
+    gap: 46px;
+    
+}
+
+.feature {
+    padding-right: 62px;
+}
+
+.myimage {
+    padding-left: 650px;
+    padding-top: 0px;
+    padding-bottom: 89px;
+}
+
+.about {
+    padding-top: 78px;
 }
 
 
