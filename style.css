@@ -106,10 +106,7 @@
 }
 
 .head {
-    justify-content: center;
-}
-
-.feature {
+    justify-conten/home/rift-koders/assignments/capstone-project-riftkoders/index.html
     display: flex;
     flex-direction: row;
     gap: 48px;
@@ -138,6 +135,10 @@
     height: 600px;
     gap: 120px;
     justify-content: space-around;
+}
+
+.about-me {
+    
 }
 
 
