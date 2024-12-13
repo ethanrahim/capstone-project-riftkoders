@@ -168,6 +168,22 @@
     padding-top: 58px;
 }
 
+.form {
+    padding-left: 800px;
+    gap: 38px;
+}
+
+#submit {
+    gap: 38px;
+    background-color: #D3E97A;
+    color: #0b0e01;
+    gap: 12px;
+    padding: 20px,6px,20px,24px;
+    border-radius: 100px; 
+     border-style: none ;
+    font-size: large
+
+}
 
 
 
