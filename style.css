@@ -23,6 +23,8 @@
 
 }
 
+
+
 .container nav ul {
     display: flex;
     flex-direction: row;
@@ -130,6 +132,8 @@
 }
 
 .im-png {
+    display: flex;
+    flex-direction: row;
     width: 600px;
     height: 600px;
     gap: 120px;
