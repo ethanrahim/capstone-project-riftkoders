@@ -74,11 +74,10 @@
     padding: 20px,6px,20px,24px;
     border-radius: 100px; 
      border-style: none ;
-    font-size: large
+    font-size: large;
     
     
-    /* border-radius: 12px;
-  padding: 5px */
+    
 
     
 }
@@ -89,30 +88,22 @@
     position: relative;
     right: -600px;
     align-items: center;
- }
-    /* height: auto;
-    width: 600px;
-    float: right;
-    object-fit: contain;
-    position: relative;
-    right: 0px;
-    border-radius: 10px;
-}  */
 
-.home-image {
+
+/* .home-image {
     display: flex;
     flex-direction: row;
     gap: 16px;
     
-}
+} */
 
 .head {
-    justify-conten/home/rift-koders/assignments/capstone-project-riftkoders/index.html
+    
     display: flex;
     flex-direction: row;
     gap: 48px;
     
-    /* justify-content: center; */
+    
 }
 
 
@@ -181,9 +172,5 @@
     padding: 20px,6px,20px,24px;
     border-radius: 100px; 
      border-style: none ;
-    font-size: large
-
+    font-size: large;
 }
-
-
-
